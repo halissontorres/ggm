@@ -2,6 +2,8 @@
 
 Análise de preço justo de ações brasileiras usando o Modelo de Gordon (Gordon Growth Model).
 
+> **Não se trata de um modelo de investimento, mas sim uma ferramenta para estimar o preço justo de uma ação com base em suas projeções de dividendos e crescimento. É importante avaliar outras informações financeiras e não se basear exclusivamente no resultado do modelo.**
+
  ### **Fórmula do Gordon Growth Model (GGM)**
 
 O preço justo (ou preço-teto) da ação é o valor presente dos dividendos futuros, assumindo crescimento perpétuo constante:
